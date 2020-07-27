@@ -2,8 +2,8 @@ package app
 
 import (
 	"encoding/json"
-	"lectionhttpserver/cmd/bank/app/dto"
-	"lectionhttpserver/pkg/card"
+	"github.com/netology-code/bgo-docker/cmd/bank/app/dto"
+	"github.com/netology-code/bgo-docker/pkg/card"
 	"log"
 	"net/http"
 )

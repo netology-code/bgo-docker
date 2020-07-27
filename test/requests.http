@@ -1,5 +1,5 @@
 ###
-GET http://localhost:8888/getCards HTTP/1.1
+GET http://localhost:9999/getCards HTTP/1.1
 
 ###
 POST http://localhost:9999/getCards HTTP/1.1

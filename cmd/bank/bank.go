@@ -1,8 +1,8 @@
 package main
 
 import (
-	"lectionhttpserver/cmd/bank/app"
-	"lectionhttpserver/pkg/card"
+	"github.com/netology-code/bgo-docker/cmd/bank/app"
+	"github.com/netology-code/bgo-docker/pkg/card"
 	"net"
 	"net/http"
 	"os"
